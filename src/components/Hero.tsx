@@ -64,7 +64,7 @@ const Hero = () => {
               <div className="text-sm text-muted-foreground">Узлов</div>
             </div>
             <div className="text-center">
-              <div className="text-4xl font-bold text-primary mb-2">< 50ms</div>
+              <div className="text-4xl font-bold text-primary mb-2">&lt; 50ms</div>
               <div className="text-sm text-muted-foreground">Задержка</div>
             </div>
           </div>
